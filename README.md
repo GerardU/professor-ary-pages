@@ -1,6 +1,6 @@
 # professor-ary-support
 
-Public support repository seed for First Words by Professor Ary.
+Public support repository seed for Professor Ary.
 
 ## Purpose
 
@@ -8,13 +8,14 @@ Host public support and privacy pages required by app stores.
 
 ## Current app coverage
 
-- `first-words`
+- `professor-ary`
 
 ## Locales currently included
 
 - `en`
 - `ca`
 - `es`
+- `es-mx`
 - `fr`
 - `de`
 - `pt-br`
@@ -30,8 +31,8 @@ Host public support and privacy pages required by app stores.
 ## Structure
 
 - `index.md`: landing page.
-- `first-words/<locale>/privacy-policy.md`
-- `first-words/<locale>/support.md`
+- `professor-ary/<locale>/privacy-policy.md`
+- `professor-ary/<locale>/support.md`
 
 The markdown files include Jekyll front matter so GitHub Pages renders them as pages.
 
@@ -45,4 +46,4 @@ Regenerate this seed from the canonical source with:
 
 Canonical source path:
 
-- `aso/first-words/locales/*/{privacy-policy.md,support.md}`
+- `aso/professor-ary/locales/*/{privacy-policy.md,support.md}`

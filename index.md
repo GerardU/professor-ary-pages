@@ -3,36 +3,41 @@
 
 # Professor Ary Support
 
-Public support and privacy pages for First Words by Professor Ary.
+Public support and privacy pages for Professor Ary.
 
-## First Words
+## Professor Ary
 
 ### English (`en`)
 
-- [Privacy Policy](./first-words/en/privacy-policy)
-- [Support](./first-words/en/support)
+- [Privacy Policy](./professor-ary/en/privacy-policy)
+- [Support](./professor-ary/en/support)
 
 ### Catala (`ca`)
 
-- [Politica de privacitat](./first-words/ca/privacy-policy)
-- [Suport](./first-words/ca/support)
+- [Politica de privacitat](./professor-ary/ca/privacy-policy)
+- [Suport](./professor-ary/ca/support)
 
 ### Espanol (`es`)
 
-- [Politica de privacidad](./first-words/es/privacy-policy)
-- [Soporte](./first-words/es/support)
+- [Politica de privacidad](./professor-ary/es/privacy-policy)
+- [Soporte](./professor-ary/es/support)
+
+### Espanol (Mexico) (`es-mx`)
+
+- [Politica de privacidad](./professor-ary/es-mx/privacy-policy)
+- [Soporte](./professor-ary/es-mx/support)
 
 ### Francais (`fr`)
 
-- [Politique de confidentialite](./first-words/fr/privacy-policy)
-- [Support](./first-words/fr/support)
+- [Politique de confidentialite](./professor-ary/fr/privacy-policy)
+- [Support](./professor-ary/fr/support)
 
 ### Deutsch (`de`)
 
-- [Datenschutzerklaerung](./first-words/de/privacy-policy)
-- [Support](./first-words/de/support)
+- [Datenschutzerklaerung](./professor-ary/de/privacy-policy)
+- [Support](./professor-ary/de/support)
 
 ### Portugues (Brasil) (`pt-br`)
 
-- [Politica de privacidade](./first-words/pt-br/privacy-policy)
-- [Suporte](./first-words/pt-br/support)
+- [Politica de privacidade](./professor-ary/pt-br/privacy-policy)
+- [Suporte](./professor-ary/pt-br/support)
