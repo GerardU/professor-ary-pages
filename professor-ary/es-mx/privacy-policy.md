@@ -3,29 +3,27 @@
 
 # Política de privacidad de Professor Ary
 
-Fecha de entrada en vigor: 3 de agosto de 2026
+Fecha de entrada en vigor: 12 de agosto de 2026
 
 Professor Ary está diseñada para una práctica guiada de tarjetas con cuidadores. La app no requiere cuenta y no solicita datos personales.
 
 ## Recopilación de datos
 
-Professor Ary no recopila, vende ni comparte datos personales.
+Professor Ary no solicita nombres, direcciones de correo electrónico, cuentas, identificadores publicitarios ni información sobre menores. No vende datos ni los usa para publicidad.
 
 La configuración, los favoritos, los conjuntos seleccionados y el progreso de sesión se guardan localmente en el dispositivo para recordar la rutina. Esos datos no se envían al desarrollador.
 
 ## Compras
 
-Professor Ary ofrece un plan Plus opcional (suscripciones y una opción de por vida de pago único). Las compras las procesa Apple a través de la App Store; usamos RevenueCat para verificar los derechos. Nunca vemos ni guardamos tus datos de pago, y el estado de la compra solo se vincula a un identificador de usuario anónimo.
+Apple procesa las compras mediante el App Store. Para verificar y administrar Plus, RevenueCat procesa un identificador de usuario anónimo y aleatorio generado por su SDK, el tipo de dispositivo y el sistema operativo, el recibo de Apple y el estado de las transacciones y los derechos. No proporcionamos a RevenueCat datos de cuentas ni de menores, y no vemos ni almacenamos tus datos de pago. El acceso heredado de la versión 1.0 solo se concede tras verificar la AppTransaction de StoreKit, no por el progreso local.
 
 ## Analítica
 
-La app envía señales de uso anonimizadas (por ejemplo: se completó una ronda guiada) a TelemetryDeck. Las señales no contienen datos personales, identificadores de menores, ubicación precisa ni identificadores publicitarios. La analítica solo se usa para mejorar la experiencia de aprendizaje.
+Professor Ary no usa ningún SDK de analítica de terceros. Si una versión configura el recopilador opcional propio, solo recibe eventos agregados permitidos con versión, idioma, módulo, conjunto, modo, nivel de acceso, superficie, activador, plan y variante del experimento. No recibe cuentas, dispositivos, datos de menores, publicidad, ubicación, fecha de nacimiento, IP/User-Agent ni texto libre. Sin endpoint, la analítica está desactivada.
 
 ## Uso de red
 
-La experiencia principal de tarjetas funciona sin conexión con imágenes y audio incluidos en la app. La red solo se usa para compras, verificación de derechos y la analítica anonimizada descrita.
-
-Los enlaces externos de soporte o privacidad se abren fuera de la app detrás de una puerta para adultos y los gestiona el navegador correspondiente.
+La experiencia principal funciona sin conexión con imágenes y audio incluidos. La red solo se usa para compras, verificación de derechos y el recopilador agregado propio opcional descrito arriba.
 
 ## Menores
 

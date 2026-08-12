@@ -3,29 +3,27 @@
 
 # Política de privacitat de Professor Ary
 
-Data d'entrada en vigor: 3 d'agost de 2026
+Data d'entrada en vigor: 12 d'agost de 2026
 
 Professor Ary està pensada per a pràctica guiada de targetes amb cuidadors. L'app no requereix cap compte ni demana informació personal.
 
 ## Recollida de dades
 
-Professor Ary no recull, ven ni comparteix dades personals.
+Professor Ary no demana noms, adreces electròniques, comptes, identificadors publicitaris ni informació sobre cap infant. No ven dades ni les utilitza per a publicitat.
 
 La configuració, les preferides, els conjunts seleccionats i el progrés de sessió es guarden localment al dispositiu perquè l'app recordi la rutina. Aquestes dades no s'envien al desenvolupador.
 
 ## Compres
 
-Professor Ary ofereix un pla Plus opcional (subscripcions i una opció de per vida de pagament únic). Les compres les processa Apple a través de l'App Store; fem servir RevenueCat per verificar els drets. Mai no veiem ni guardem les teves dades de pagament, i l'estat de la compra només s'associa a un identificador d'usuari anònim.
+Les compres les processa Apple a través de l'App Store. Per verificar i gestionar Plus, RevenueCat processa un identificador d'usuari anònim i aleatori generat pel seu SDK, el tipus de dispositiu i el sistema operatiu, el rebut d'Apple i l'estat de les transaccions i els drets. No proporcionem a RevenueCat dades de comptes ni d'infants, i no veiem ni guardem les dades de pagament. L'accés heretat de la versió 1.0 només s'atorga després de verificar l'AppTransaction de StoreKit, no a partir del progrés local.
 
 ## Analítica
 
-L'app envia senyals d'ús anonimitzats (per exemple: s'ha completat una volta guiada) a TelemetryDeck. Els senyals no contenen dades personals, identificadors d'infants, ubicació precisa ni identificadors publicitaris. L'analítica només serveix per millorar l'experiència d'aprenentatge.
+Professor Ary no utilitza cap SDK d'analítica de tercers. Si una versió configura el recollidor opcional propi, només rep esdeveniments agregats permesos amb versió, idioma, mòdul, set, mode, nivell d'accés, superfície, activador, pla i variant d'experiment. No rep comptes, dispositius, infants, publicitat, ubicació, data de naixement, IP/User-Agent ni text lliure. Sense endpoint, l'analítica està desactivada.
 
 ## Ús de xarxa
 
-L'experiència principal de targetes funciona fora de línia amb imatges i àudio inclosos a l'app. La xarxa només s'utilitza per a compres, verificació de drets i l'analítica anonimitzada descrita.
-
-Els enllaços externs de suport o privacitat s'obren fora de l'app darrere d'una porta per a adults i els gestiona el navegador corresponent.
+L'experiència principal funciona fora de línia amb imatges i àudio inclosos. La xarxa només s'utilitza per a compres, verificació de drets i el recollidor agregat propi opcional descrit anteriorment.
 
 ## Infants
 

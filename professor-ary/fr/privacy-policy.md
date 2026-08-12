@@ -3,29 +3,27 @@
 
 # Politique de confidentialité de Professor Ary
 
-Date d'entrée en vigueur : 3 août 2026
+Date d'entrée en vigueur : 12 août 2026
 
 Professor Ary est conçue pour une pratique guidée de cartes avec accompagnement d'un adulte. L'app ne nécessite pas de compte et ne demande pas d'informations personnelles.
 
 ## Collecte de données
 
-Professor Ary ne collecte, ne vend et ne partage aucune donnée personnelle.
+Professor Ary ne demande ni nom, ni adresse e-mail, ni compte, ni identifiant publicitaire, ni information sur un enfant. L'app ne vend pas les données et ne les utilise pas à des fins publicitaires.
 
 Les réglages, favoris, séries sélectionnées et progrès de session sont stockés localement sur l'appareil pour mémoriser la routine. Ces données ne sont pas envoyées au développeur.
 
 ## Achats
 
-Professor Ary propose un forfait Plus optionnel (abonnements et option à vie en paiement unique). Les achats sont traités par Apple via l'App Store ; nous utilisons RevenueCat pour vérifier les droits. Nous ne voyons ni ne stockons jamais vos données de paiement, et le statut d'achat n'est lié qu'à un identifiant utilisateur anonyme.
+Les achats sont traités par Apple via l'App Store. Pour vérifier et gérer Plus, RevenueCat traite un identifiant utilisateur anonyme et aléatoire généré par son SDK, le type d'appareil et le système d'exploitation, le reçu Apple ainsi que le statut des transactions et des droits. Nous ne transmettons à RevenueCat aucune donnée de compte ou d'enfant, et nous ne voyons ni ne stockons les données de paiement. L'accès hérité de la version 1.0 n'est accordé qu'après vérification de l'AppTransaction StoreKit, jamais à partir des progrès locaux.
 
 ## Analytique
 
-L'app envoie des signaux d'usage anonymisés (par exemple : une ronde guidée terminée) à TelemetryDeck. Les signaux ne contiennent aucune donnée personnelle, aucun identifiant d'enfant, aucune localisation précise et aucun identifiant publicitaire. L'analytique sert uniquement à améliorer l'expérience d'apprentissage.
+Professor Ary n'utilise aucun SDK d'analytique tiers. Si une version configure le collecteur propriétaire optionnel, il ne reçoit que des événements agrégés autorisés avec la version, la langue, le module, la série, le mode, le niveau d'accès, la surface, le déclencheur, le forfait et la variante d'expérience. Il ne reçoit aucun compte, appareil, donnée d'enfant, donnée publicitaire, localisation, date de naissance, IP/User-Agent ni texte libre. Sans endpoint, l'analytique est désactivée.
 
 ## Utilisation du réseau
 
-L'expérience principale fonctionne hors ligne avec des images et des audios intégrés. Le réseau n'est utilisé que pour les achats, la vérification des droits et l'analytique anonymisée décrite ci-dessus.
-
-Les liens externes d'assistance ou de confidentialité s'ouvrent hors de l'app derrière une barrière pour adultes et sont gérés par le navigateur concerné.
+L'expérience principale fonctionne hors ligne avec les images et audios intégrés. Le réseau sert uniquement aux achats, à la vérification des droits et au collecteur propriétaire agrégé optionnel décrit ci-dessus.
 
 ## Enfants
 

@@ -3,7 +3,7 @@
 
 # Professor Ary Support
 
-Professor Ary ist eine ruhige Bildkarten-App mit fünf Kartenbibliotheken für Übungen mit Begleitung durch eine Betreuungsperson.
+Professor Ary ist eine ruhige Bildkarten-App mit sorgfältig kuratierten Kartenbibliotheken für Übungen mit Begleitung durch eine Betreuungsperson.
 
 ## Häufige Fragen
 
@@ -13,11 +13,11 @@ Nein. Professor Ary funktioniert ohne Kontoerstellung.
 
 ### Was ist kostenlos und was ist Professor Ary Plus?
 
-Jede Bibliothek startet mit kostenlosen Kartensets. Plus ist der optionale Plan, der alle Karten in allen fünf Bibliotheken öffnet: jährlich (mit 7 Tagen kostenloser Testphase), monatlich oder als einmalige Lifetime-Option.
+Jede Bibliothek startet mit kostenlosen Kartensets. Plus ist der optionale Plan, der alle Karten in jeder Bibliothek öffnet: jährlich (mit einem Einführungsangebot, sofern verfügbar), monatlich oder als einmalige Lifetime-Option.
 
 ### Wie behalte ich den Zugriff nach dem Update von der kostenpflichtigen Version 1.0?
 
-Installiere das Update auf demselben Gerät und behalte die lokalen App-Daten. Der übernommene Zugriff der kostenpflichtigen Version 1.0 wird auf diesem Gerät gespeichert. Käufe wiederherstellen gilt für Plus-Käufe im App Store; diese Version kann den Zugriff der alten kostenpflichtigen App auf einem neuen Gerät nicht wiederherstellen.
+Nutze das Update auf jedem Gerät mit demselben Apple-Account. Die App verifiziert die StoreKit-AppTransaction der kostenpflichtigen Version 1.0; lokale Daten speichern nur den Fortschritt. Käufe wiederherstellen prüft auch den verifizierten geerbten Zugriff.
 
 ### Enthält die App Werbung?
 

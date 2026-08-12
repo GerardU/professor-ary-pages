@@ -3,7 +3,7 @@
 
 # Suport de Professor Ary
 
-Professor Ary és una app tranquil·la de targetes amb cinc biblioteques per practicar amb acompanyament d'un adult.
+Professor Ary és una app tranquil·la de targetes amb biblioteques cuidades per practicar amb acompanyament d'un adult.
 
 ## Preguntes freqüents
 
@@ -13,11 +13,11 @@ No. Professor Ary funciona sense crear cap compte.
 
 ### Què és gratuït i què és Professor Ary Plus?
 
-Cada biblioteca s'obre amb sets de targetes gratuïts. Plus és el pla opcional que obre totes les targetes de les cinc biblioteques: anual (amb 7 dies de prova gratuïta), mensual o opció de per vida de pagament únic.
+Cada biblioteca s'obre amb grups de targetes gratuïts. Plus és el pla opcional que obre totes les targetes de totes les biblioteques: anual (amb una oferta introductòria quan sigui elegible), mensual o opció de per vida de pagament únic.
 
 ### Com mantinc l'accés després d'actualitzar des de la versió 1.0 de pagament?
 
-Instal·la l'actualització en el mateix dispositiu i conserva les dades locals de l'app. L'accés heretat de la versió 1.0 de pagament es guarda en aquest dispositiu. Restaura les compres serveix per a les compres de Plus fetes a l'App Store; aquesta versió no pot recuperar l'accés de l'antiga app de pagament en un dispositiu nou.
+Utilitza l'actualització en qualsevol dispositiu amb el mateix compte d'Apple. L'app verifica l'AppTransaction de StoreKit de la versió 1.0 de pagament; les dades locals només guarden el progrés. Restaura les compres també comprova l'accés heretat verificat.
 
 ### L'app inclou anuncis?
 

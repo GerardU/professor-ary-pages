@@ -3,7 +3,7 @@
 
 # Professor Ary Support
 
-Professor Ary is a calm flashcard app with five picture-card libraries for caregiver-led practice.
+Professor Ary is a calm flashcard app with curated picture-card libraries for caregiver-led practice.
 
 ## Common Questions
 
@@ -13,11 +13,11 @@ No. Professor Ary works without account creation.
 
 ### What is free and what is Professor Ary Plus?
 
-Every library opens with free card sets. Plus is the optional plan that opens every card in all five libraries: yearly (with a 7-day free trial), monthly, or a one-time lifetime option.
+Every library opens with free card groups. Plus is the optional plan that opens every card in every library: yearly (with an introductory offer when eligible), monthly, or a one-time lifetime option.
 
 ### How do I keep access after updating from the paid 1.0 version?
 
-Install the update on the same device and keep the app's local data. The paid 1.0 version's grandfathered access is stored on that device. Restore purchases is for Plus purchases made through the App Store; this version cannot recover the old paid-app entitlement on a new device.
+Use the update on any device signed in to the same Apple account. The app verifies the paid v1.0 StoreKit AppTransaction; local data stores progress only. Restore purchases reconciles Plus purchases and the verified legacy entitlement.
 
 ### Does the app include ads?
 
