@@ -126,8 +126,8 @@ function applyLocale(locale, updateUrl = false) {
   const imageAlts = [strings.heroAlt, strings.insightAlt, strings.offlineAlt, strings.caregiverAlt];
   document.querySelectorAll("[data-screen]").forEach((image, index) => { image.alt = imageAlts[index]; });
   document.querySelectorAll("[data-app-store-link]").forEach((link) => { link.setAttribute("aria-label", strings.appStoreLabel); });
-  document.querySelectorAll("[data-support-link]").forEach((link) => { link.href = `../${locale}/support`; });
-  document.querySelectorAll("[data-privacy-link]").forEach((link) => { link.href = `../${locale}/privacy-policy`; });
+  document.querySelectorAll("[data-support-link]").forEach((link) => { link.href = `${locale}/support`; });
+  document.querySelectorAll("[data-privacy-link]").forEach((link) => { link.href = `${locale}/privacy-policy`; });
   select.value = locale;
   if (updateUrl) {
     const url = new URL(window.location.href);
