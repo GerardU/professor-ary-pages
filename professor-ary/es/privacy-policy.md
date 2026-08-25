@@ -3,7 +3,7 @@
 
 # Política de privacidad de Professor Ary
 
-Fecha de entrada en vigor: 12 de agosto de 2026
+Fecha de entrada en vigor: 25 de agosto de 2026
 
 Professor Ary está diseñada para una práctica guiada de tarjetas con cuidadores. La app no requiere cuenta y no solicita datos personales.
 
@@ -19,11 +19,15 @@ Apple procesa las compras a través del App Store. Para verificar y gestionar Pl
 
 ## Analítica
 
-Professor Ary no utiliza ningún SDK de analítica de terceros. Si una versión configura el recopilador opcional propio, solo recibe eventos agregados permitidos con versión, idioma, módulo, conjunto, modo, nivel de acceso, superficie, activador, plan y variante del experimento. No recibe cuentas, dispositivos, datos de menores, publicidad, ubicación, fecha de nacimiento, IP/User-Agent ni texto libre. Sin endpoint, la analítica está desactivada.
+Professor Ary no utiliza ningún SDK de analítica de terceros. Desde la versión 1.1.1, el recopilador propio solo acepta interacciones permitidas e incrementa inmediatamente contadores agregados diarios. La base de datos no guarda eventos sin agregar, direcciones IP, User-Agent, cuentas, identificadores de usuario o dispositivo, datos de menores, identificadores publicitarios, ubicaciones, fechas de nacimiento, recibos, identificadores de transacción ni texto libre. Las dimensiones se limitan a versión, idioma, módulo, conjunto, modo, nivel de acceso, superficie, activador, plan, resultado, categoría de error y variante del experimento. Los datos solo se usan para medir y mejorar la app, no se vinculan a la identidad ni se usan para seguimiento.
+
+## Compartir
+
+La acción Compartir del área de adultos solo abre el menú del sistema operativo después de la verificación de adulto. Professor Ary no accede a los contactos, no crea códigos personales de recomendación y no recibe el destinatario ni el contenido del mensaje. El enlace del App Store contiene una única etiqueta agregada de campaña.
 
 ## Uso de red
 
-La experiencia principal funciona sin conexión con imágenes y audio incluidos. La red solo se usa para compras, verificación de derechos y el recopilador agregado propio opcional descrito arriba.
+La experiencia principal funciona sin conexión con imágenes y audio incluidos. La red solo se usa para compras, verificación de derechos y el recopilador agregado propio descrito arriba.
 
 ## Menores
 

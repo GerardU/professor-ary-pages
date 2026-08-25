@@ -3,7 +3,7 @@
 
 # Politique de confidentialité de Professor Ary
 
-Date d'entrée en vigueur : 12 août 2026
+Date d'entrée en vigueur : 25 août 2026
 
 Professor Ary est conçue pour une pratique guidée de cartes avec accompagnement d'un adulte. L'app ne nécessite pas de compte et ne demande pas d'informations personnelles.
 
@@ -19,11 +19,15 @@ Les achats sont traités par Apple via l'App Store. Pour vérifier et gérer Plu
 
 ## Analytique
 
-Professor Ary n'utilise aucun SDK d'analytique tiers. Si une version configure le collecteur propriétaire optionnel, il ne reçoit que des événements agrégés autorisés avec la version, la langue, le module, la série, le mode, le niveau d'accès, la surface, le déclencheur, le forfait et la variante d'expérience. Il ne reçoit aucun compte, appareil, donnée d'enfant, donnée publicitaire, localisation, date de naissance, IP/User-Agent ni texte libre. Sans endpoint, l'analytique est désactivée.
+Professor Ary n'utilise aucun SDK d'analytique tiers. À partir de la version 1.1.1, son collecteur propriétaire n'accepte que les interactions autorisées et incrémente immédiatement des compteurs quotidiens agrégés. La base de données ne stocke aucun événement brut, adresse IP, User-Agent, compte, identifiant d'utilisateur ou d'appareil, donnée d'enfant, identifiant publicitaire, localisation, date de naissance, reçu, identifiant de transaction ou texte libre. Les dimensions sont limitées à la version, la langue, le module, la série, le mode, le niveau d'accès, la surface, le déclencheur, le forfait, le résultat, la catégorie d'erreur et la variante d'expérience. Ces données servent uniquement à mesurer et améliorer l'app, ne sont pas liées à l'identité et ne sont pas utilisées pour le suivi.
+
+## Partage
+
+L'action Partager de l'espace adulte n'ouvre la feuille de partage du système qu'après la vérification adulte. Professor Ary n'accède pas aux contacts, ne crée pas de code de parrainage personnel et ne reçoit ni le destinataire ni le contenu du message. Le lien App Store contient une seule étiquette de campagne agrégée.
 
 ## Utilisation du réseau
 
-L'expérience principale fonctionne hors ligne avec les images et audios intégrés. Le réseau sert uniquement aux achats, à la vérification des droits et au collecteur propriétaire agrégé optionnel décrit ci-dessus.
+L'expérience principale fonctionne hors ligne avec les images et audios intégrés. Le réseau sert uniquement aux achats, à la vérification des droits et au collecteur propriétaire agrégé décrit ci-dessus.
 
 ## Enfants
 

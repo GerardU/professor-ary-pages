@@ -3,7 +3,7 @@
 
 # Datenschutzrichtlinie für Professor Ary
 
-Gültig ab: 12. August 2026
+Gültig ab: 25. August 2026
 
 Professor Ary ist für begleitete Bildkartenübungen gedacht. Die App erfordert kein Konto und fragt keine personenbezogenen Daten ab.
 
@@ -19,11 +19,15 @@ Käufe werden von Apple über den App Store verarbeitet. Zur Prüfung und Verwal
 
 ## Analytik
 
-Professor Ary verwendet kein Analyse-SDK eines Drittanbieters. Wenn eine Version den optionalen eigenen Collector konfiguriert, erhält er nur erlaubte aggregierte Ereignisse mit App-Version, Sprache, Modul, Set, Modus, Zugriffsstufe, Oberfläche, Auslöser, Tarif und Experimentvariante. Er erhält keine Konto-, Geräte- oder Kinderdaten, Werbekennungen, Standort, Geburtsdatum, IP/User-Agent oder freien Text. Ohne Endpoint ist die Analyse deaktiviert.
+Professor Ary verwendet kein Analyse-SDK eines Drittanbieters. Ab Version 1.1.1 akzeptiert der eigene Collector nur erlaubte Interaktionen und erhöht sofort tägliche aggregierte Zähler. Die Datenbank speichert keine Rohereignisse, IP-Adressen, User-Agent-Strings, Konten, Nutzer- oder Gerätekennungen, Kinderdaten, Werbekennungen, Standorte, Geburtsdaten, Belege, Transaktionskennungen oder Freitext. Dimensionen sind auf App-Version, Sprache, Modul, Set, Modus, Zugriffsstufe, Oberfläche, Auslöser, Tarif, Ergebnis, Fehlerkategorie und Experimentvariante begrenzt. Die Daten werden ausschließlich zur Messung und Verbesserung der App verwendet, nicht mit einer Identität verknüpft und nicht zum Tracking genutzt.
+
+## Teilen
+
+Die Teilen-Aktion im Erwachsenenbereich öffnet das Teilen-Menü des Betriebssystems erst nach der Erwachsenenprüfung. Professor Ary greift nicht auf Kontakte zu, erstellt keinen persönlichen Empfehlungscode und erhält weder Empfänger noch Nachrichteninhalt. Der App-Store-Link enthält eine einzige aggregierte Kampagnenbezeichnung.
 
 ## Netzwerknutzung
 
-Das zentrale Lernerlebnis funktioniert offline mit integrierten Bildern und Audiodateien. Das Netzwerk wird nur für Käufe, Berechtigungsprüfungen und den optionalen eigenen aggregierten Collector verwendet.
+Das zentrale Lernerlebnis funktioniert offline mit integrierten Bildern und Audiodateien. Das Netzwerk wird nur für Käufe, Berechtigungsprüfungen und den oben beschriebenen eigenen aggregierten Collector verwendet.
 
 ## Kinder
 

@@ -3,7 +3,7 @@
 
 # Política de privacitat de Professor Ary
 
-Data d'entrada en vigor: 12 d'agost de 2026
+Data d'entrada en vigor: 25 d'agost de 2026
 
 Professor Ary està pensada per a pràctica guiada de targetes amb cuidadors. L'app no requereix cap compte ni demana informació personal.
 
@@ -19,11 +19,15 @@ Les compres les processa Apple a través de l'App Store. Per verificar i gestion
 
 ## Analítica
 
-Professor Ary no utilitza cap SDK d'analítica de tercers. Si una versió configura el recollidor opcional propi, només rep esdeveniments agregats permesos amb versió, idioma, mòdul, set, mode, nivell d'accés, superfície, activador, pla i variant d'experiment. No rep comptes, dispositius, infants, publicitat, ubicació, data de naixement, IP/User-Agent ni text lliure. Sense endpoint, l'analítica està desactivada.
+Professor Ary no utilitza cap SDK d'analítica de tercers. A partir de la versió 1.1.1, el recollidor propi només accepta interaccions permeses i incrementa immediatament comptadors agregats diaris. La base de dades no desa esdeveniments en brut, adreces IP, User-Agent, comptes, identificadors d'usuari o dispositiu, dades d'infants, identificadors publicitaris, ubicacions, dates de naixement, rebuts, identificadors de transacció ni text lliure. Les dimensions es limiten a versió, idioma, mòdul, conjunt, mode, nivell d'accés, superfície, activador, pla, resultat, categoria d'error i variant d'experiment. Les dades només serveixen per mesurar i millorar l'app, no es vinculen a cap identitat ni s'utilitzen per a seguiment.
+
+## Compartir
+
+L'acció Compartir de l'àrea d'adults només obre el menú del sistema operatiu després de la verificació d'adult. Professor Ary no accedeix als contactes, no crea cap codi personal de recomanació i no rep el destinatari ni el contingut del missatge. L'enllaç de l'App Store conté una única etiqueta agregada de campanya.
 
 ## Ús de xarxa
 
-L'experiència principal funciona fora de línia amb imatges i àudio inclosos. La xarxa només s'utilitza per a compres, verificació de drets i el recollidor agregat propi opcional descrit anteriorment.
+L'experiència principal funciona fora de línia amb imatges i àudio inclosos. La xarxa només s'utilitza per a compres, verificació de drets i el recollidor agregat propi descrit anteriorment.
 
 ## Infants
 

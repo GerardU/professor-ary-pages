@@ -3,7 +3,7 @@
 
 # Política de privacidade do Professor Ary
 
-Data de vigência: 12 de agosto de 2026
+Data de vigência: 25 de agosto de 2026
 
 Professor Ary foi criado para prática guiada de cartões por cuidadores. O app não exige conta e não solicita informações pessoais.
 
@@ -19,11 +19,15 @@ As compras são processadas pela Apple pela App Store. Para verificar e gerencia
 
 ## Analítica
 
-O Professor Ary não usa SDK de análise de terceiros. Quando uma versão configura o coletor próprio opcional, ele recebe apenas eventos agregados permitidos com versão do app, idioma, módulo, conjunto, modo, nível de acesso, superfície, gatilho, plano e variante do experimento. Ele não recebe contas, dispositivos, dados de crianças, publicidade, localização, data de nascimento, IP/User-Agent nem texto livre. Sem endpoint, a análise fica desativada.
+O Professor Ary não usa SDK de análise de terceiros. A partir da versão 1.1.1, o coletor próprio aceita somente interações permitidas e incrementa imediatamente contadores diários agregados. O banco de dados não armazena eventos brutos, endereços IP, User-Agent, contas, identificadores de usuário ou dispositivo, dados de crianças, identificadores de publicidade, localizações, datas de nascimento, recibos, identificadores de transação nem texto livre. As dimensões são limitadas a versão, idioma, módulo, conjunto, modo, nível de acesso, superfície, gatilho, plano, resultado, categoria de erro e variante do experimento. Os dados são usados apenas para medir e melhorar o app, não são vinculados à identidade e não são usados para rastreamento.
+
+## Compartilhamento
+
+A ação Compartilhar da área para adultos só abre o menu do sistema operacional após a verificação de adulto. O Professor Ary não acessa contatos, não cria código pessoal de indicação e não recebe o destinatário nem o conteúdo da mensagem. O link da App Store contém uma única etiqueta agregada de campanha.
 
 ## Uso de rede
 
-A experiência principal funciona offline com imagens e áudio incluídos. A rede é usada apenas para compras, verificação de direitos e o coletor próprio agregado opcional descrito acima.
+A experiência principal funciona offline com imagens e áudio incluídos. A rede é usada apenas para compras, verificação de direitos e o coletor próprio agregado descrito acima.
 
 ## Crianças
 

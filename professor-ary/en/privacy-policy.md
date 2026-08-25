@@ -3,7 +3,7 @@
 
 # Privacy Policy for Professor Ary
 
-Effective date: August 12, 2026
+Effective date: August 25, 2026
 
 Professor Ary is designed for caregiver-led flashcard practice. The app does not require an account and does not ask for personal information.
 
@@ -19,11 +19,15 @@ Purchases are processed by Apple through the App Store. To verify and manage Plu
 
 ## Analytics
 
-Professor Ary does not use a third-party analytics SDK. When a release configures the optional first-party collector, it receives only allowlisted aggregate events with app version, locale, module, set, mode, access tier, surface, trigger, plan, and experiment variant. It receives no account, device, child, advertising, location, date-of-birth, IP/User-Agent, or free-form text data. If no endpoint is configured, analytics is disabled.
+Professor Ary does not use a third-party analytics SDK. Starting with version 1.1.1, its first-party collector accepts only allowlisted interaction events and immediately increments daily aggregate counters. The database stores no raw events, IP addresses, User-Agent strings, accounts, user or device identifiers, child data, advertising identifiers, locations, dates of birth, receipts, transaction identifiers, or free-form text. Allowed dimensions are limited to app version, locale, module, set, mode, access tier, surface, trigger, plan, outcome, error category, and experiment variant. The data is used only to measure and improve the app, is not linked to identity, and is not used for tracking.
+
+## Sharing
+
+The Share action in the adult area opens the operating-system share sheet only after the grown-up check. Professor Ary does not access contacts, create a personal referral code, or receive the recipient or message content. The App Store link contains one aggregate campaign label.
 
 ## Network Use
 
-The core flashcard experience works offline with bundled images and audio. Network access is used only for purchases, entitlement checks, and the optional first-party aggregate collector described above.
+The core flashcard experience works offline with bundled images and audio. Network access is used only for purchases, entitlement checks, and the first-party aggregate collector described above.
 
 ## Children
 
