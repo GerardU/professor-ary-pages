@@ -1,7 +1,8 @@
 ---
+lang: es-MX
 ---
 
-# Soporte de Professor Ary: Visual Routine
+# Soporte de Professor Ary: Rutina visual
 
 Crea rutinas visuales tranquilas, muestra Ahora y Después y haz visible el tiempo. La aplicación básica funciona sin conexión, sin cuenta y sin anuncios.
 

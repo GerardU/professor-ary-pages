@@ -1,4 +1,5 @@
 ---
+lang: fr-FR
 ---
 
 # Conditions d'utilisation de Professor Ary: Visual Routine

@@ -1,11 +1,12 @@
 ---
+lang: es-ES
 ---
 
-# Política de privacidad de Professor Ary: Visual Routine
+# Política de privacidad de Professor Ary: Rutina visual
 
 Fecha de entrada en vigor: 29 de agosto de 2026
 
-Professor Ary: Visual Routine es una aplicación de rutinas visuales guiadas por una persona cuidadora. La experiencia gratuita funciona sin conexión y sin cuenta. La copia en la nube y la colaboración entre cuidadores son funciones opcionales de Routines+ que una persona adulta debe activar expresamente.
+Professor Ary: Rutina visual es una aplicación de rutinas visuales guiadas por una persona cuidadora. La experiencia gratuita funciona sin conexión y sin cuenta. La copia en la nube y la colaboración entre cuidadores son funciones opcionales de Routines+ que una persona adulta debe activar expresamente.
 
 ## Datos guardados en el dispositivo
 

@@ -1,4 +1,5 @@
 ---
+lang: ca
 ---
 
 # Esborra les dades o el compte de Visual Routine
@@ -25,7 +26,7 @@ La supressió no pot esborrar el registre de compres d'Apple. Pots restaurar una
 
 ## Cancel·la la subscripció per separat
 
-Esborrar dades o un compte no cancel·la la facturació. A l'iPhone o l'iPad, obre **Configuració → [el teu nom] → Subscripcions → Professor Ary: Visual Routine** i cancel·la la subscripció. Apple controla la facturació, la renovació i els reemborsaments.
+Esborrar dades o un compte no cancel·la la facturació. A l'iPhone o l'iPad, obre **Configuració → [el teu nom] → Subscripcions → Professor Ary: Rutina visual** i cancel·la la subscripció. Apple controla la facturació, la renovació i els reemborsaments.
 
 ## Si no pots accedir a l'aplicació
 

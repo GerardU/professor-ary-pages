@@ -1,4 +1,5 @@
 ---
+lang: de-DE
 ---
 
 # Visual-Routine-Daten oder Cloud-Konto löschen
@@ -25,7 +26,7 @@ Die Löschung kann Apples Kaufdatensatz nicht entfernen. Sie können einen berec
 
 ## Abonnement separat kündigen
 
-Das Löschen von Daten oder eines Kontos beendet die Abrechnung nicht. Öffnen Sie auf iPhone oder iPad **Einstellungen → [Ihr Name] → Abonnements → Professor Ary: Visual Routine** und kündigen Sie das Abonnement. Apple bestimmt Abrechnung, Verlängerung und Rückerstattungen.
+Das Löschen von Daten oder eines Kontos beendet die Abrechnung nicht. Öffnen Sie auf iPhone oder iPad **Einstellungen → [Ihr Name] → Abonnements → Professor Ary: Bildroutine** und kündigen Sie das Abonnement. Apple bestimmt Abrechnung, Verlängerung und Rückerstattungen.
 
 ## Wenn Sie keinen Zugriff auf die App haben
 

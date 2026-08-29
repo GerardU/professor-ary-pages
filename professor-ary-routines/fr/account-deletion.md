@@ -1,4 +1,5 @@
 ---
+lang: fr-FR
 ---
 
 # Supprimer vos données ou votre compte Visual Routine

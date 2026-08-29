@@ -1,11 +1,12 @@
 ---
+lang: pt-BR
 ---
 
-# Termos de Uso do Professor Ary: Visual Routine
+# Termos de Uso do Professor Ary: Rotina visual
 
 Data de vigência: 29 de agosto de 2026
 
-Estes termos se aplicam ao Professor Ary: Visual Routine e aos serviços de suporte relacionados. Ao baixar ou usar o aplicativo, o adulto titular da conta aceita estes termos e o Contrato de Licença de Usuário Final aplicável da Apple. Se você não concordar, não use o aplicativo.
+Estes termos se aplicam ao Professor Ary: Rotina visual e aos serviços de suporte relacionados. Ao baixar ou usar o aplicativo, o adulto titular da conta aceita estes termos e o Contrato de Licença de Usuário Final aplicável da Apple. Se você não concordar, não use o aplicativo.
 
 ## Uso conduzido por um responsável
 

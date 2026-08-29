@@ -1,4 +1,5 @@
 ---
+lang: fr-FR
 ---
 
 # Politique de confidentialité de Professor Ary: Visual Routine
