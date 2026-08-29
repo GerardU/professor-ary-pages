@@ -4,11 +4,14 @@ Public support repository seed for Professor Ary.
 
 ## Purpose
 
-Host public support and privacy pages required by app stores.
+Host public support, privacy, legal, account-deletion, and purchase-help pages
+required by app stores.
 
 ## Current app coverage
 
 - `professor-ary`
+- `professor-ary-sleep`
+- `professor-ary-routines`
 
 ## Locales currently included
 
@@ -33,6 +36,8 @@ Host public support and privacy pages required by app stores.
 - `index.md`: landing page.
 - `professor-ary/<locale>/privacy-policy.md`
 - `professor-ary/<locale>/support.md`
+- `professor-ary-sleep/<locale>/{privacy-policy.md,support.md}`
+- `professor-ary-routines/<locale>/{privacy-policy.md,support.md,terms.md,account-deletion.md,subscription.md}`
 
 The markdown files include Jekyll front matter so GitHub Pages renders them as pages.
 
