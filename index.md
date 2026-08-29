@@ -78,3 +78,16 @@ Public support and privacy pages for Professor Ary.
 
 - [Politica de privacidade](./professor-ary-sleep/pt-br/privacy-policy)
 - [Suporte](./professor-ary-sleep/pt-br/support)
+
+## Professor Ary: Visual Routine
+
+Public support, privacy, terms, account-deletion, and purchase guidance is
+available from the [Visual Routine language index](./professor-ary-routines/).
+
+- [English](./professor-ary-routines/en/support)
+- [Català](./professor-ary-routines/ca/support)
+- [Español](./professor-ary-routines/es/support)
+- [Español (México)](./professor-ary-routines/es-mx/support)
+- [Français](./professor-ary-routines/fr/support)
+- [Deutsch](./professor-ary-routines/de/support)
+- [Português (Brasil)](./professor-ary-routines/pt-br/support)
