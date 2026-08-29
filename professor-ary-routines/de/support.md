@@ -1,9 +1,10 @@
 ---
+lang: de-DE
 ---
 
-# Support für Professor Ary: Visual Routine
+# Support für Professor Ary: Bildroutine
 
-Erstellen Sie ruhige Bildroutinen, zeigen Sie Jetzt und Danach und machen Sie Zeit sichtbar. Die Kern-App funktioniert offline, ohne Konto und ohne Werbung.
+Erstellen Sie ruhige Bildroutinen, zeigen Sie Jetzt und Dann und machen Sie Zeit sichtbar. Die Kern-App funktioniert offline, ohne Konto und ohne Werbung.
 
 ## Erste Schritte
 
@@ -68,4 +69,3 @@ Schreiben Sie an [professoraryapp@gmail.com](mailto:professoraryapp@gmail.com). 
 - [Nutzungsbedingungen](./terms)
 - [Kontolöschung](./account-deletion)
 - [Abonnements und Käufe](./subscription)
-

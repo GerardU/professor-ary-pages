@@ -1,4 +1,5 @@
 ---
+lang: en-US
 ---
 
 # Privacy Policy for Professor Ary: Visual Routine

@@ -1,9 +1,10 @@
 ---
+lang: ca
 ---
 
 # Subscripcions i compres de Visual Routine
 
-Professor Ary: Visual Routine ofereix una experiència gratuïta útil i tres opcions de compra Routines+. La pantalla de l'App Store dins de l'aplicació és la font autoritzada per al preu local, els impostos, l'elegibilitat de la prova i les condicions de facturació.
+Professor Ary: Rutina visual ofereix una experiència gratuïta útil i tres opcions de compra Routines+. La pantalla de l'App Store dins de l'aplicació és la font autoritzada per al preu local, els impostos, l'elegibilitat de la prova i les condicions de facturació.
 
 ## Opcions de compra
 
@@ -25,7 +26,7 @@ Si la restauració no funciona, comprova la connexió, el Compte d'Apple i que l
 
 ## Gestiona o cancel·la
 
-A l'iPhone o l'iPad, obre **Configuració → [el teu nom] → Subscripcions → Professor Ary: Visual Routine**. La cancel·lació atura la renovació; normalment l'accés continua fins que acaba el període pagat. Apple gestiona la facturació i les decisions de reemborsament.
+A l'iPhone o l'iPad, obre **Configuració → [el teu nom] → Subscripcions → Professor Ary: Rutina visual**. La cancel·lació atura la renovació; normalment l'accés continua fins que acaba el període pagat. Apple gestiona la facturació i les decisions de reemborsament.
 
 Esborrar l'aplicació, les dades locals o el compte de Visual Routine al núvol no cancel·la una subscripció. Cancel·la-la per separat a través d'Apple. Una compra de per vida no té cap renovació per cancel·lar.
 

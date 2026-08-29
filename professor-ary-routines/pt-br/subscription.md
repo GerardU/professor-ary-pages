@@ -1,9 +1,10 @@
 ---
+lang: pt-BR
 ---
 
 # Assinaturas e compras do Visual Routine
 
-Professor Ary: Visual Routine oferece uma experiência gratuita útil e três opções de compra do Routines+. A tela de compra da App Store dentro do aplicativo é a fonte oficial para o preço local, os impostos, a qualificação para o período grátis e as condições de cobrança.
+Professor Ary: Rotina visual oferece uma experiência gratuita útil e três opções de compra do Routines+. A tela de compra da App Store dentro do aplicativo é a fonte oficial para o preço local, os impostos, a qualificação para o período grátis e as condições de cobrança.
 
 ## Opções de compra
 
@@ -25,7 +26,7 @@ Se a restauração não funcionar, confira a conexão, a Conta Apple e se a comp
 
 ## Gerenciar ou cancelar
 
-No iPhone ou iPad, abra **Ajustes → [seu nome] → Assinaturas → Professor Ary: Visual Routine**. O cancelamento impede a renovação; o acesso normalmente continua até o fim do período pago. A Apple cuida da cobrança e das decisões de reembolso.
+No iPhone ou iPad, abra **Ajustes → [seu nome] → Assinaturas → Professor Ary: Rotina visual**. O cancelamento impede a renovação; o acesso normalmente continua até o fim do período pago. A Apple cuida da cobrança e das decisões de reembolso.
 
 Excluir o aplicativo, os dados locais ou a conta do Visual Routine na nuvem não cancela uma assinatura. Cancele-a separadamente pela Apple. Uma compra vitalícia não tem renovação para cancelar.
 

@@ -1,7 +1,8 @@
 ---
+lang: ca
 ---
 
-# Assistència de Professor Ary: Visual Routine
+# Assistència de Professor Ary: Rutina visual
 
 Crea rutines visuals tranquil·les, mostra Ara i Després i fes visible el temps. L'aplicació bàsica funciona sense connexió, sense compte i sense anuncis.
 

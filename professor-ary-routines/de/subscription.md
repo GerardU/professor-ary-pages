@@ -1,9 +1,10 @@
 ---
+lang: de-DE
 ---
 
 # Visual-Routine-Abonnements und -Käufe
 
-Professor Ary: Visual Routine bietet eine nützliche kostenlose Nutzung und drei optionale Routines+-Kaufmöglichkeiten. Das App-Store-Kauffenster in der App ist maßgeblich für Ihren lokalen Preis, Steuern, die Berechtigung für eine Testphase und die Abrechnungsbedingungen.
+Professor Ary: Bildroutine bietet eine nützliche kostenlose Nutzung und drei optionale Routines+-Kaufmöglichkeiten. Das App-Store-Kauffenster in der App ist maßgeblich für Ihren lokalen Preis, Steuern, die Berechtigung für eine Testphase und die Abrechnungsbedingungen.
 
 ## Kaufmöglichkeiten
 
@@ -25,7 +26,7 @@ Wenn die Wiederherstellung nicht funktioniert, prüfen Sie Netzwerkzugriff, Appl
 
 ## Verwalten oder kündigen
 
-Öffnen Sie auf iPhone oder iPad **Einstellungen → [Ihr Name] → Abonnements → Professor Ary: Visual Routine**. Eine Kündigung verhindert die Verlängerung; der Zugriff läuft normalerweise bis zum Ende des bezahlten Zeitraums weiter. Apple entscheidet über Abrechnung und Rückerstattungen.
+Öffnen Sie auf iPhone oder iPad **Einstellungen → [Ihr Name] → Abonnements → Professor Ary: Bildroutine**. Eine Kündigung verhindert die Verlängerung; der Zugriff läuft normalerweise bis zum Ende des bezahlten Zeitraums weiter. Apple entscheidet über Abrechnung und Rückerstattungen.
 
 Das Löschen der App, lokaler Daten oder des Visual-Routine-Cloud-Kontos beendet kein Abonnement. Kündigen Sie es separat bei Apple. Beim Kauf auf Lebenszeit gibt es keine Verlängerung zu kündigen.
 

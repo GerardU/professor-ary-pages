@@ -1,4 +1,5 @@
 ---
+lang: fr-FR
 ---
 
 # Assistance pour Professor Ary: Visual Routine

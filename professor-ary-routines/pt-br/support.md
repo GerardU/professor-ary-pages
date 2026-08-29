@@ -1,7 +1,8 @@
 ---
+lang: pt-BR
 ---
 
-# Suporte do Professor Ary: Visual Routine
+# Suporte do Professor Ary: Rotina visual
 
 Crie rotinas visuais tranquilas, mostre Agora e Depois e torne o tempo visível. O app principal funciona offline, sem conta e sem anúncios.
 

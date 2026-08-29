@@ -1,11 +1,12 @@
 ---
+lang: de-DE
 ---
 
-# Datenschutzrichtlinie für Professor Ary: Visual Routine
+# Datenschutzrichtlinie für Professor Ary: Bildroutine
 
 Gültig ab: 29. August 2026
 
-Professor Ary: Visual Routine ist eine von Betreuungspersonen geführte App für visuelle Routinen. Die kostenlose Nutzung funktioniert offline und ohne Konto. Cloud-Sicherung und die Zusammenarbeit mit weiteren Betreuungspersonen sind optionale Routines+-Funktionen, die ein Erwachsener bewusst aktivieren muss.
+Professor Ary: Bildroutine ist eine von Betreuungspersonen geführte App für visuelle Routinen. Die kostenlose Nutzung funktioniert offline und ohne Konto. Cloud-Sicherung und die Zusammenarbeit mit weiteren Betreuungspersonen sind optionale Routines+-Funktionen, die ein Erwachsener bewusst aktivieren muss.
 
 ## Auf Ihrem Gerät gespeicherte Daten
 

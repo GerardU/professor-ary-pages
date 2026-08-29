@@ -1,4 +1,5 @@
 ---
+lang: pt-BR
 ---
 
 # Excluir seus dados ou sua conta do Visual Routine
@@ -25,7 +26,7 @@ A exclusão não pode apagar o registro de compras da Apple. Você poderá resta
 
 ## Cancelar uma assinatura separadamente
 
-Excluir dados ou uma conta não cancela a cobrança. No iPhone ou iPad, abra **Ajustes → [seu nome] → Assinaturas → Professor Ary: Visual Routine** e cancele a assinatura. A Apple controla cobrança, renovação e reembolsos.
+Excluir dados ou uma conta não cancela a cobrança. No iPhone ou iPad, abra **Ajustes → [seu nome] → Assinaturas → Professor Ary: Rotina visual** e cancele a assinatura. A Apple controla cobrança, renovação e reembolsos.
 
 ## Se você não consegue acessar o aplicativo
 

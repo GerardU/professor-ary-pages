@@ -1,11 +1,12 @@
 ---
+lang: de-DE
 ---
 
-# Nutzungsbedingungen für Professor Ary: Visual Routine
+# Nutzungsbedingungen für Professor Ary: Bildroutine
 
 Gültig ab: 29. August 2026
 
-Diese Bedingungen gelten für Professor Ary: Visual Routine und die zugehörigen Supportdienste. Mit dem Download oder der Nutzung der App akzeptiert der erwachsene Kontoinhaber diese Bedingungen und Apples geltenden Endnutzer-Lizenzvertrag. Wenn Sie nicht zustimmen, verwenden Sie die App nicht.
+Diese Bedingungen gelten für Professor Ary: Bildroutine und die zugehörigen Supportdienste. Mit dem Download oder der Nutzung der App akzeptiert der erwachsene Kontoinhaber diese Bedingungen und Apples geltenden Endnutzer-Lizenzvertrag. Wenn Sie nicht zustimmen, verwenden Sie die App nicht.
 
 ## Von Betreuungspersonen geführte Nutzung
 

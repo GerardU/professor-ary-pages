@@ -1,4 +1,5 @@
 ---
+lang: es-ES
 ---
 
 # Borra tus datos o tu cuenta de Visual Routine
@@ -25,7 +26,7 @@ La eliminación no puede borrar el registro de compras de Apple. Puedes restaura
 
 ## Cancela la suscripción por separado
 
-Borrar datos o una cuenta no cancela la facturación. En el iPhone o iPad, abre **Ajustes → [tu nombre] → Suscripciones → Professor Ary: Visual Routine** y cancela la suscripción. Apple controla la facturación, la renovación y los reembolsos.
+Borrar datos o una cuenta no cancela la facturación. En el iPhone o iPad, abre **Ajustes → [tu nombre] → Suscripciones → Professor Ary: Rutina visual** y cancela la suscripción. Apple controla la facturación, la renovación y los reembolsos.
 
 ## Si no puedes acceder a la aplicación
 

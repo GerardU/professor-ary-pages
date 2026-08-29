@@ -1,4 +1,5 @@
 ---
+lang: fr-FR
 ---
 
 # Abonnements et achats Visual Routine

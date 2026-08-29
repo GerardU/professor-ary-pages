@@ -1,11 +1,12 @@
 ---
+lang: ca
 ---
 
-# Condicions d'ús de Professor Ary: Visual Routine
+# Condicions d'ús de Professor Ary: Rutina visual
 
 Data d'entrada en vigor: 29 d'agost de 2026
 
-Aquestes condicions s'apliquen a Professor Ary: Visual Routine i als seus serveis d'assistència. En descarregar o utilitzar l'aplicació, la persona adulta titular del compte accepta aquestes condicions i el contracte de llicència d'usuari final d'Apple que correspongui. Si no hi estàs d'acord, no utilitzis l'aplicació.
+Aquestes condicions s'apliquen a Professor Ary: Rutina visual i als seus serveis d'assistència. En descarregar o utilitzar l'aplicació, la persona adulta titular del compte accepta aquestes condicions i el contracte de llicència d'usuari final d'Apple que correspongui. Si no hi estàs d'acord, no utilitzis l'aplicació.
 
 ## Ús guiat per una persona cuidadora
 
