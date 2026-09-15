@@ -1,0 +1,20 @@
+{
+  "format": 1,
+  "version": "2.0",
+  "sourceCommit": "3daff4c050101fb02efc7b6d5abec183faf9871a",
+  "cipher": "AES-256-GCM",
+  "kdf": "PBKDF2-SHA256",
+  "iterations": 600000,
+  "salt": "6bv7GOQb1X9PqQtUSWCb1A==",
+  "iv": "QMIdpEKnkKCBvurZ",
+  "aad": "chaos-relay-preview-v2-3daff4c",
+  "encoding": "gzip",
+  "parts": [
+    "payload-0.txt",
+    "payload-1.txt",
+    "payload-2.txt",
+    "payload-3.txt",
+    "payload-4.txt"
+  ],
+  "bytes": 33575
+}
